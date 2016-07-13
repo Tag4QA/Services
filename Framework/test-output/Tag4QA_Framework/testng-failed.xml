@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" verbose="10" name="Failed suite [Tag4QA_Framework]" allow-return-values="true">
+  <parameter name="Browser" value="Firefox"/>
+  <listeners>
+    <listener class-name="com.tag4qa.util.ReporterListener"/>
+    <listener class-name="com.tag4qa.util.PriorityListener"/>
+  </listeners>
+  <test name="DemoTest">
+    <parameter name="Browser" value="Firefox"/>
+    <classes>
+      <class name="com.tag4qa.tests.TestAddCustomer"/>
+    </classes>
+  </test> <!-- DemoTest -->
+</suite> <!-- Failed suite [Tag4QA_Framework] -->

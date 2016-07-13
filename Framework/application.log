@@ -1,0 +1,28 @@
+2016-07-13 13:30:34 INFO  MethodLibrary:19 - Retreived the browser parameter from the TestNG.xml file.
+2016-07-13 13:30:34 INFO  BrowserLaunch:26 - Invoking the browser: Firefox
+2016-07-13 13:30:45 INFO  ConsolidatedHTMLReport:445 - CI Report folder already exist
+2016-07-13 16:25:35 INFO  MethodLibrary:26 - Retreived the browser parameter from the TestNG.xml file.
+2016-07-13 16:25:35 INFO  BrowserLaunch:26 - Invoking the browser: Firefox
+2016-07-13 16:25:51 INFO  ConsolidatedHTMLReport:445 - CI Report folder already exist
+2016-07-13 16:25:51 ERROR ConsolidatedHTMLReport:442 - Error in Report copy for CI display.\CustomHTMLReport\HTMLReports\Tag4QA_Framework.html (Access is denied)
+2016-07-13 16:25:51 ERROR ConsolidatedHTMLReport:469 - Error in Screenshot copy for CI display.\CustomHTMLReport\HTMLReports\Screenshots\addCustomer.png (Access is denied)
+2016-07-13 17:03:45 INFO  MethodLibrary:26 - Retreived the browser parameter from the TestNG.xml file.
+2016-07-13 17:03:45 INFO  BrowserLaunch:26 - Invoking the browser: Firefox
+2016-07-13 17:05:40 INFO  MethodLibrary:26 - Retreived the browser parameter from the TestNG.xml file.
+2016-07-13 17:05:40 INFO  BrowserLaunch:26 - Invoking the browser: Firefox
+2016-07-13 17:06:48 INFO  MethodLibrary:26 - Retreived the browser parameter from the TestNG.xml file.
+2016-07-13 17:06:48 INFO  BrowserLaunch:26 - Invoking the browser: Firefox
+2016-07-13 17:07:18 ERROR MethodLibrary:55 - Error in After Class: Unexpected modal dialog (text: Email Address Already Exist !!) The alert disappeared before it could be closed.: Email Address Already Exist !!
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'MPERUMAL', ip: '10.37.1.198', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_73'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=41.0.2, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 85cd9282-06c5-4e1d-8c73-628df6fcbea7
+*** Element info: {Using=link text, value=Log out}
+2016-07-13 17:07:36 INFO  MethodLibrary:26 - Retreived the browser parameter from the TestNG.xml file.
+2016-07-13 17:07:36 INFO  BrowserLaunch:26 - Invoking the browser: Firefox
+2016-07-13 17:07:54 INFO  ConsolidatedHTMLReport:445 - CI Report folder already exist
+2016-07-13 17:09:11 INFO  MethodLibrary:26 - Retreived the browser parameter from the TestNG.xml file.
+2016-07-13 17:09:11 INFO  BrowserLaunch:26 - Invoking the browser: Firefox
+2016-07-13 17:09:51 ERROR ConsolidatedHTMLReport:414 - Error in screenshot copyC:\Users\mperumal\Desktop\PCH_Test_WS\Framework\screenshots (The system cannot find the file specified)
+2016-07-13 17:09:51 INFO  ConsolidatedHTMLReport:445 - CI Report folder already exist

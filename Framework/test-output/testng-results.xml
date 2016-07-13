@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Tag4QA_Framework" duration-ms="39958" started-at="2016-07-13T11:39:11Z" finished-at="2016-07-13T11:39:51Z">
+    <groups>
+    </groups>
+    <test name="DemoTest" duration-ms="39958" started-at="2016-07-13T11:39:11Z" finished-at="2016-07-13T11:39:51Z">
+      <class name="com.tag4qa.tests.TestAddCustomer">
+        <test-method status="PASS" signature="browserInvoke(java.lang.String)[pri:0, instance:com.tag4qa.tests.TestAddCustomer@139982de]" name="browserInvoke" is-config="true" duration-ms="6679" started-at="2016-07-13T17:09:11Z" finished-at="2016-07-13T17:09:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInvoke -->
+        <test-method status="PASS" signature="appLogin()[pri:0, instance:com.tag4qa.tests.TestAddCustomer@139982de]" name="appLogin" is-config="true" duration-ms="2502" started-at="2016-07-13T17:09:17Z" finished-at="2016-07-13T17:09:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLogin -->
+        <test-method status="PASS" signature="addCustomer(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.tag4qa.tests.TestAddCustomer@139982de]" name="addCustomer" duration-ms="15097" started-at="2016-07-13T17:09:20Z" description="Add a new customer" data-provider="NewCustomer" finished-at="2016-07-13T17:09:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ManiPerumal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[08/07/1991]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Chennais]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Chennais]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[TNP]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[600002]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9854685241]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[manip@test.com]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[123#%]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method status="PASS" signature="addCustomer(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.tag4qa.tests.TestAddCustomer@139982de]" name="addCustomer" duration-ms="14190" started-at="2016-07-13T17:09:35Z" description="Add a new customer" data-provider="NewCustomer" finished-at="2016-07-13T17:09:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Manisrini]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[08/07/1989]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MKMS]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ChennaiF]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[STN]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[600301]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9984856924]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[manis@test.com]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[123#%]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method status="PASS" signature="appLogout()[pri:0, instance:com.tag4qa.tests.TestAddCustomer@139982de]" name="appLogout" is-config="true" duration-ms="1424" started-at="2016-07-13T17:09:49Z" finished-at="2016-07-13T17:09:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLogout -->
+      </class> <!-- com.tag4qa.tests.TestAddCustomer -->
+    </test> <!-- DemoTest -->
+  </suite> <!-- Tag4QA_Framework -->
+</testng-results>

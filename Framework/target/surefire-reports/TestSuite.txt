@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 22.901 sec <<< FAILURE! - in TestSuite
+appLogin(com.tag4qa.tests.TestCartCheckout)  Time elapsed: 19.434 sec  <<< FAILURE!
+java.lang.NullPointerException
+
